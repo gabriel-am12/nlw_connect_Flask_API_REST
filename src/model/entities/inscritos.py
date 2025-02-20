@@ -10,3 +10,4 @@ class Inscritos(Base):
     link = Column(String, nullable=True)
     evento_id = Column(Integer, ForeignKey("Eventos.id"))
 
+ 
