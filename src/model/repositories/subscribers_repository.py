@@ -38,7 +38,7 @@ class SubscribersRepository(SubscribersRepositoryInterface):
                 .filter(
                     Inscritos.link == link, 
                     Inscritos.evento_id == event_id)
-                .all
+                .all()
             )
             return data
     
