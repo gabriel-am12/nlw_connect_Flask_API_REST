@@ -1,4 +1,4 @@
-# Event Management API (NLW Project)
+# Event Management API
 
 This project is a Python-based API designed to handle events, subscribers, and links to the events. It was developed as part of Next Level Week (NLW), an online educational program by Rocketseat.
 
